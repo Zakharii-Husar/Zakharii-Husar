@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Zakharii-Husar.
 - 👀 I’m interested in web development.
-- 🌱 Currently learn JavaScript.
 - 🌍 I speak |ENG||DE||RU|.
 - 📫 How to reach me zakhariihusar@gmail.com
 <!---
