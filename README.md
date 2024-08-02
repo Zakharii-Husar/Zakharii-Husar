@@ -2,8 +2,7 @@
 - 👀 I’m interested in web development.
 - 📫 How to reach me zakhariihusar@gmail.com
 
-- ### 🧰 Languages and Tools
-<br />
+
 - ## 🧰 Front End:
 - <br />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
