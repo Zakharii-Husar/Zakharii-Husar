@@ -2,6 +2,11 @@
 - 👀 I’m interested in web development.
 - 📫 How to reach me zakhariihusar@gmail.com
 
+<div align="center">
+  <a href="https://github.com/ernestopmaria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zakharii-Husar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ernestopmaria&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="overflow: auto;">
     <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
