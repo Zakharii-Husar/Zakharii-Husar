@@ -14,73 +14,25 @@
   </a>
 </div>
 
-<div style="display: inline_block" align="center"><br>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/HTML">
-    <img alt="HTML" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/CSS">
-    <img alt="CSS" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
-    <img alt="SASS" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/JavaScript">
-    <img alt="JavaScript" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/TypeScript">
-    <img alt="TypeScript" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">
-    <img alt="React" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)">
-    <img alt="Redux" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-    <img alt="C#" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/.NET_Core">
-    <img alt="dotnet" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-    <img alt="Bash" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Ubuntu">
-    <img alt="Ubuntu" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
-  </a>
+<div align="center">
 
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Apache_HTTP_Server">
-    <img alt="Apache" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-  </a>
+  [![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg)](https://en.wikipedia.org/wiki/HTML)
+  [![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg)](https://en.wikipedia.org/wiki/CSS)
+  [![SASS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg)](https://en.wikipedia.org/wiki/Sass_(stylesheet_language))
+  [![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg)](https://en.wikipedia.org/wiki/JavaScript)
+  [![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg)](https://en.wikipedia.org/wiki/TypeScript)
+  [![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)](https://en.wikipedia.org/wiki/React_(JavaScript_library))
+  [![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg)](https://en.wikipedia.org/wiki/Redux_(JavaScript_library))
+  [![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+  [![dotnet](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg)](https://en.wikipedia.org/wiki/.NET_Core)
+  [![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+  [![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg)](https://en.wikipedia.org/wiki/Ubuntu)
+  [![Apache](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg)](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+  [![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://en.wikipedia.org/wiki/MySQL)
+  [![Microsoft_SQL_Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg)](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
+  [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://en.wikipedia.org/wiki/GitHub)
+  [![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)](https://en.wikipedia.org/wiki/Git)
 
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/MySQL">
-    <img alt="MySQL" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server">
-    <img alt="Microsoft_SQL_Server" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/GitHub">
-    <img alt="GitHub" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </a>
-  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Git">
-    <img alt="Git" width="30px" style="padding-right:10px;"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </a>
 </div>
 
 <!-- Clearing div to ensure the next content starts on a new line -->
