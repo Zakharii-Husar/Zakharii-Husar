@@ -8,72 +8,72 @@
 
 
 <div align="center">
-  <a href="https://github.com/Zakharii-Husar">
+  <a style="text-decoration: none;" href="https://github.com/Zakharii-Husar">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Zakharii-Husar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=Zakharii-Husar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakharii-Husar&layout=compact&langs_count=7&theme=dracula" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakharii-Husar&layout=compact&langs_count=7&theme=highcontrast" />
   </a>
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <a href="https://en.wikipedia.org/wiki/HTML">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/HTML">
     <img alt="HTML" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/CSS">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/CSS">
     <img alt="CSS" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Sass_(stylesheet_language)">
     <img alt="SASS" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/JavaScript">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/JavaScript">
     <img alt="JavaScript" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/TypeScript">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/TypeScript">
     <img alt="TypeScript" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/React_(JavaScript_library)">
     <img alt="React" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)">
     <img alt="Redux" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
     <img alt="C#" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/.NET_Core">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/.NET_Core">
     <img alt="dotnet" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
     <img alt="Bash" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Ubuntu">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Ubuntu">
     <img alt="Ubuntu" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/MySQL">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/MySQL">
     <img alt="MySQL" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Microsoft_SQL_Server">
     <img alt="Microsoft_SQL_Server" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/GitHub">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/GitHub">
     <img alt="GitHub" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Git">
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Git">
     <img alt="Git" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </a>
@@ -85,10 +85,10 @@
 <br />
 
 <div align="center">
-  <a href="mailto:zakhariihusar@gmail.com"><img
+  <a style="text-decoration: none;" href="mailto:zakhariihusar@gmail.com"><img
       src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
       target="_blank"></a>
-  <a href="https://www.linkedin.com/in/zakharii-husar-4a5ab5249/" target="_blank"><img
+  <a style="text-decoration: none;" href="https://www.linkedin.com/in/zakharii-husar-4a5ab5249/" target="_blank"><img
       src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       target="_blank"></a>
 </div>
