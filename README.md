@@ -1,6 +1,6 @@
-# $${\color{blue}👋 \space Hi, \space I’m \space Zakharii}$$
-## $${\color{blue}👨‍💻 \space I’m \space interested \space in \space web \space development}$$
-## $${\color{blue}📱 \space Reach \space out \space on \space WhatsApp \space +1-(204)-890-6527}$$
+## $${\color{blue}👋 \space Hi, \space I’m \space Zakharii}$$
+### $${\color{blue}👨‍💻 \space I’m \space interested \space in \space web \space development}$$
+### $${\color{blue}📱 \space Reach \space out \space on \space WhatsApp \space +1-(204)-890-6527}$$
 
 
 
