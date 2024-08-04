@@ -1,10 +1,7 @@
-# $${\color{lightblue}👋 Hi, I’m Zakharii}$$
+# $${\color{navyblue}👋 Hi, I’m Zakharii}$$
+## $${\color{navyblue}👨‍💻 I’m interested in web development}$$
+## $${\color{navyblue}📱 Reach out on WhatsApp +1-(204)-890-6527}$$
 
-<div align="center">
-  <h1 style="color: blue;"><code style="color : blue">👋 Hi, I’m Zakharii</code></h1>
-  <h2 style="color: blue;">👨‍💻 I’m interested in web development</h2>
-  <h2 style="color: blue;">📱 Reach out on WhatsApp +1-(204)-890-6527</h2>
-</div>
 
 
 <div align="center">
