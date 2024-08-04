@@ -1,18 +1,16 @@
 <div align="center">
-<h1 style="font-family: Arial, sans-serif;">👋 Hi, I’m Zakharii</h1>
-
-<h2 style="font-family: Helvetica, sans-serif;">👨‍💻 I’m interested in web development</h2>
-
-<h2 style="font-family: Verdana, sans-serif;">📱 Reach out on WhatsApp +1-(204)-890-6527</h2>
+  <h1 style="color: navy;">👋 Hi, I’m Zakharii</h1>
+  <h2 style="color: navy;">👨‍💻 I’m interested in web development</h2>
+  <h2 style="color: navy;">📱 Reach out on WhatsApp +1-(204)-890-6527</h2>
 </div>
 
 
 <div align="center">
   <a style="text-decoration: none;" href="https://github.com/Zakharii-Husar">
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Zakharii-Husar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true" />
+      src="https://github-readme-stats.vercel.app/api?username=Zakharii-Husar&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true" />
     <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakharii-Husar&layout=compact&langs_count=7&theme=highcontrast" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakharii-Husar&layout=compact&langs_count=7&theme=blue_navy" />
   </a>
 </div>
 
@@ -61,6 +59,12 @@
     <img alt="Ubuntu" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
   </a>
+
+  <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Apache_HTTP_Server">
+    <img alt="Apache" width="30px" style="padding-right:10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+  </a>
+
   <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/MySQL">
     <img alt="MySQL" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
