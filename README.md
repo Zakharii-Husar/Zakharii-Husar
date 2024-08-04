@@ -50,6 +50,11 @@
     <img alt="dotnet" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   </a>
+    <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Go_(programming_language)">
+    <img alt="dotnet" width="30px" style="padding-right:10px;"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  </a>
+  
   <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
     <img alt="Bash" width="30px" style="padding-right:10px;"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
