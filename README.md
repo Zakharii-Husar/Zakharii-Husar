@@ -1,13 +1,6 @@
-
-<div align="center">
-  ![Hi](https://img.shields.io/badge/Hi%20I’m%20Zakharii-blue)
-  ![Interest](https://img.shields.io/badge/I’m%20interested%20in%20web%20development-blue)
-  ![Contact](https://img.shields.io/badge/Reach%20out%20on%20WhatsApp%20%2B1--(204)--890--6527-blue)
-</div>
-
-# $${\color{blue}👋 Hi, I’m Zakharii}$$
-## $${\color{blue}👨‍💻 I’m interested in web development}$$
-## $${\color{blue}📱 Reach out on WhatsApp +1-(204)-890-6527}$$
+# $${\color{blue}👋 \space Hi, \space I’m \space Zakharii}$$
+## $${\color{blue}👨‍💻 \space I’m \space interested \space in \space web \space development}$$
+## $${\color{blue}📱 \space Reach \space out \space on \space WhatsApp \space +1-(204)-890-6527}$$
 
 
 
