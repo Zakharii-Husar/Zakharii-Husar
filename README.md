@@ -1,7 +1,5 @@
-$${\color{lightblue}👋 Hi, I’m Zakharii}$$
-$$
-\Huge{\textcolor{navyblue}{👋 Hi, I’m Zakharii}}
-$$
+# $${\color{lightblue}👋 Hi, I’m Zakharii}$$
+
 <div align="center">
   <h1 style="color: blue;"><code style="color : blue">👋 Hi, I’m Zakharii</code></h1>
   <h2 style="color: blue;">👨‍💻 I’m interested in web development</h2>
