@@ -3,16 +3,6 @@
 ### 📱 Reach out on WhatsApp/Telegram +1-(204)-890-6527
 
 
-
-<div align="center">
-  <a style="text-decoration: none;" href="https://github.com/Zakharii-Husar">
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=Zakharii-Husar&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true" />
-    <img height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakharii-Husar&layout=compact&langs_count=7&theme=blue_navy" />
-  </a>
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <a style="text-decoration: none;" href="https://en.wikipedia.org/wiki/HTML">
     <img alt="HTML" width="30px" style="padding-right:10px;"
