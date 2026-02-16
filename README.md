@@ -19,7 +19,8 @@ Full-stack web developer — I build **reliable, fast, maintainable** solutions 
 - x86_64 Assembly
 
 **Frontend**
-- React.js
+- Astro
+- React.js / Next.js
 - Redux Toolkit
 - Styled Components
 - HTML
