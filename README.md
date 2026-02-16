@@ -44,8 +44,8 @@ Full-stack web developer — I build **reliable, fast, maintainable** solutions 
 ## 📬 Contact
 
 - **Phone / Text:** +1 (204) 869-2587
-- **Email:** info@zakharii.dev
+- **Email:** contact@zakharii.dev
 - **LinkedIn:** https://www.linkedin.com/in/zakharii-husar-4a5ab5249/
-- **GitHub:** https://github.com/Zakharii-Husar
 - **Website:** https://zakharii.dev
+- **Instagram:** https://instagram.com/zakharii.dev
 
