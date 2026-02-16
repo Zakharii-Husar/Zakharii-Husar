@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Zakharii
 ### 👨‍💻 I’m interested in web development
-### 📱 Reach out on WhatsApp/Telegram +1-(204)-890-6527
+### 📱 Reach out on WhatsApp/Telegram +1-(204)-869-2587
 
 
 <div style="display: inline_block" align="center"><br>
